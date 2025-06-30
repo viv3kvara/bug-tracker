@@ -32,5 +32,6 @@ if (isset($_POST['submit'])) {
     echo "Registered Successfully!";
 }
 ?>
+<p>Don't have an account? <a href="login.php">login here</a></p>
 </body>
 </html>
