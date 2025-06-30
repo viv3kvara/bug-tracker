@@ -19,6 +19,9 @@ $user = $_SESSION['user'];
     <li><a href="chatbot/index.php">Chat with BugBot</a></li>
     <li><a href="youtube/search.php">Watch Debugging Videos</a></li>
     <li><a href="logout.php">Logout</a></li>
+
+    <li><a href="change-password.php">Change Password</a></li>
+
 </ul>
 </body>
 </html>

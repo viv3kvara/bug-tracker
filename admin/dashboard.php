@@ -17,6 +17,7 @@ $user = $_SESSION['user'];
     <li><a href="../quiz/add-question.php">Add Quiz Questions</a></li>
     <li><a href="../bugs/list.php">View All Bugs</a></li>
     <li><a href="../logout.php">Logout</a></li>
+    <li><a href="../change-password.php">Change Password</a></li>
 </ul>
 </body>
 </html>
