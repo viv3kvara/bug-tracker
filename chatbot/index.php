@@ -35,7 +35,8 @@ form.onsubmit = async function(e) {
     input.value = "";
 };
 </script>
-
+</body>
+</html>
 <?php
 // Show dashboard link based on user role
 if (isset($_SESSION['user'])) {
@@ -44,6 +45,3 @@ if (isset($_SESSION['user'])) {
     echo "<p style='margin-top:20px;'><a href='$dashboard'>⬅️ Back to Dashboard</a></p>";
 }
 ?>
-
-</body>
-</html>
